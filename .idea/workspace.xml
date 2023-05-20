@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="1st work on GitHub">
+    <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Info.java" afterDir="false" />
     </list>
@@ -34,20 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/nicho/IdeaProjects/TeachMeSkills22Homework1/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/nicho/IdeaProjects/TeachMeSkills22Homework1/src/Main.java",
+    "settings.editor.selected.configurable": "terminal",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Info">
     <configuration name="Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Info" />
@@ -85,7 +86,8 @@
       <workItem from="1684479186077" duration="177000" />
       <workItem from="1684479585046" duration="11302000" />
       <workItem from="1684503093099" duration="460000" />
-      <workItem from="1684574114018" duration="2515000" />
+      <workItem from="1684574114018" duration="2873000" />
+      <workItem from="1684582457521" duration="2265000" />
     </task>
     <task id="LOCAL-00001" summary="1st work on GitHub">
       <created>1684268158903</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684269420961</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HomeWork3">
+      <created>1684578103592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684578103593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +148,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st work on GitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st work on GitHub" />
+    <MESSAGE value="HomeWork3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

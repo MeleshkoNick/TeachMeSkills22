@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Info {
     public static void main(String[] args) {
-        infoKeyBoard();
-        printChar();
+        //infoKeyBoard();
+        //printChar();
         BMI();
     }
     public static void infoKeyBoard() {
@@ -28,12 +28,10 @@ public class Info {
         System.out.println("Your weight: " +weight);
     }
     public static void printChar(){
-        char symbol1 = 'N';
-        System.out.println("Your symbol_1: " +symbol1);
-        System.out.println(symbol1 + " - " + (int)symbol1);
-        char symbol2 = 'M';
-        System.out.println("Your symbol_2: " +symbol2);
-        System.out.println(symbol2 + " - " + (int)symbol2);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter your char: ");
+        char symbol = scanner.next().charAt(0);
+        System.out.println("Char: " + symbol + "-" + (int)symbol);
     }
     public static void BMI(){
             Scanner scanner = new Scanner(System.in);

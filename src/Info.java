@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Info {
     public static void main(String[] args) {
-        //infoKeyBoard();
-        //printChar();
+        infoKeyBoard();
+        printChar();
         BMI();
     }
     public static void infoKeyBoard() {

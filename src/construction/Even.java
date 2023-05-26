@@ -1,3 +1,5 @@
+package construction;
+
 import java.util.Scanner;
 
 public class Even {
@@ -10,7 +12,7 @@ public class Even {
 
     public static String even(int number) {
         if (number % 2 == 0) {
-            return "Even";
+            return "construction.Even";
         } else {
             return "Odd";
         }

@@ -1,3 +1,5 @@
+package construction;
+
 import java.util.Scanner;
 
 public class Seasons2 {
@@ -5,7 +7,7 @@ public class Seasons2 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter number of month: ");
         int month = scanner.nextInt();
-        System.out.println("Seasons: " +seasons(month));
+        System.out.println("construction.Seasons: " +seasons(month));
     }
 
     public static String seasons(int month) {

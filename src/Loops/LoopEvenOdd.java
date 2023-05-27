@@ -1,3 +1,5 @@
+package Loops;
+
 public class LoopEvenOdd {
     public static void main(String[] args) {
         odd(); }

@@ -1,3 +1,5 @@
+package Loops;
+
 public class Decrement {
     public static void main(String[] args) {
         number(); }

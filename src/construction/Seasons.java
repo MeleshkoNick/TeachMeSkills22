@@ -1,5 +1,4 @@
 package construction;
-
 import java.util.Scanner;
 public class Seasons {
     public static void main(String[] args) {

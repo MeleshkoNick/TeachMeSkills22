@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork3">
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonachi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_55_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_55_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_55__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_55__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_56_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_19_56__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonachi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/Decrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/LoopEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/LoopEvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construction/Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construction/Even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construction/Rainbow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construction/Rainbow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construction/Seasons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construction/Seasons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construction/Seasons2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construction/Seasons2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/construction/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/construction/Temperature.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,15 +76,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Ex6" />
+    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex5" />
       <module name="TeachMeSkills22Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fibonachi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonachi" />
+    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Ex6" />
+      <module name="TeachMeSkills22Homework1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="TeachMeSkills22Homework1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,20 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="While2" />
-      <module name="TeachMeSkills22Homework1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.Fibonachi" />
+        <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.While2" />
+        <item itemvalue="Application.Ex5" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +150,8 @@
       <workItem from="1685028508072" duration="3792000" />
       <workItem from="1685085682140" duration="1509000" />
       <workItem from="1685095990755" duration="11304000" />
-      <workItem from="1685167876222" duration="8128000" />
+      <workItem from="1685167876222" duration="8485000" />
+      <workItem from="1685278720353" duration="6440000" />
     </task>
     <task id="LOCAL-00001" summary="1st work on GitHub">
       <created>1684268158903</created>

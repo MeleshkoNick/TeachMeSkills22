@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork3">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_06_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_06__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_07_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_07__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_08_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_05_2023_13_08__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex1">
+  <component name="RunManager" selected="Application.Ex3">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="TeachMeSkills22Homework1" />
@@ -59,28 +65,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Ex5" />
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2" />
       <module name="TeachMeSkills22Homework1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Ex6" />
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3" />
       <module name="TeachMeSkills22Homework1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.Ex5" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +121,8 @@
       <workItem from="1684574114018" duration="2873000" />
       <workItem from="1684582457521" duration="2265000" />
       <workItem from="1685384465227" duration="776000" />
+      <workItem from="1685912178376" duration="1834000" />
+      <workItem from="1685971182018" duration="12702000" />
     </task>
     <task id="LOCAL-00001" summary="1st work on GitHub">
       <created>1684268158903</created>

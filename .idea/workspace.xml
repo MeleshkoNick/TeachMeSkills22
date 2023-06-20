@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork3">
+      <change afterPath="$PROJECT_DIR$/src/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaIntro.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Info">
     <configuration name="Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Info" />
       <module name="TeachMeSkills22Homework1" />
@@ -65,6 +70,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.yguhb" />
+        <item itemvalue="Application.Info" />
+        <item itemvalue="Application.yguhb" />
         <item itemvalue="Application.Info" />
         <item itemvalue="Application.yguhb" />
       </list>
@@ -87,6 +95,7 @@
       <workItem from="1684503093099" duration="460000" />
       <workItem from="1684574114018" duration="2873000" />
       <workItem from="1684582457521" duration="2265000" />
+      <workItem from="1687283364877" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="1st work on GitHub">
       <created>1684268158903</created>
@@ -133,7 +142,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="homework3" />
+                        <option value="homework7" />
                       </list>
                     </value>
                   </entry>

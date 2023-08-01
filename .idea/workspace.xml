@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork3">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26_07_2023_20_45_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_26_07_2023_20_45__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Accountant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_07_2023_03_49__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_07_2023_03_49__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_20_05_2023_18_06__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc76ff7d-68ec-4724-9745-a7ac084fc7d4" name="Changes" comment="HomeWork8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +114,7 @@
       <workItem from="1684574114018" duration="2873000" />
       <workItem from="1684582457521" duration="2265000" />
       <workItem from="1690815266507" duration="1577000" />
-      <workItem from="1690893366562" duration="2185000" />
+      <workItem from="1690893366562" duration="2535000" />
     </task>
     <task id="LOCAL-00001" summary="1st work on GitHub">
       <created>1684268158903</created>
@@ -162,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1684578103593</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork8">
+      <option name="closed" value="true" />
+      <created>1690906959474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690906959474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +184,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st work on GitHub" />
     <MESSAGE value="HomeWork3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork3" />
+    <MESSAGE value="HomeWork8" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

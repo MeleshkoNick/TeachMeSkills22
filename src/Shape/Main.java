@@ -3,11 +3,11 @@ package Shape;
 public class Main {
     public static void main(String[] args) {
         Shape[] shapes = new Shape[5];
-        shapes[0] = new Triangle(4, 5, 3, 4, 5);
-        shapes[1] = new Rectangle(3, 6);
-        shapes[2] = new Circle(2);
-        shapes[3] = new Triangle(5, 7, 5, 6, 7);
-        shapes[4] = new Rectangle(4, 8);
+        shapes[0] = new Triangle(5, 6, 4, 5, 6);
+        shapes[1] = new Rectangle(4, 7);
+        shapes[2] = new Circle(3);
+        shapes[3] = new Triangle(6, 8, 6, 7, 8);
+        shapes[4] = new Rectangle(5, 9);
 
         double totalPerimeter = 0;
 

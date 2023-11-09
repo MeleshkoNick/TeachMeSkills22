@@ -26,6 +26,6 @@ public class Main {
         System.out.println("Weight: " + phone3.weight);
         phone3.receiveCall("Nicholas");
         System.out.println();
-        phone1.sendMessage("0565567", "8636967");
+        phone1.sendMessage("0565567", "8636967", "4335353  ");
     }
 }

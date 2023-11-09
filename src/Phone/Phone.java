@@ -6,17 +6,17 @@ public class Phone {
     public double weight;
 
     public Phone(String number, String model, double weight) {
-        this.number = number;
-        this.model = model;
+        this(number, model);
         this.weight = weight;
     }
 
     public Phone(String number, String model) {
-        this(number, model, 0.0);
+        this.number = number;
+        this.model = model;
+
     }
 
     public Phone() {
-        this("Empty", "Empty", 0.0);
     }
 
     public void receiveCall(String callerName) {
